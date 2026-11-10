@@ -8,10 +8,10 @@ I build sensor-driven devices, from idea and wiring to firmware and testing.
 - **EeezeeHome**: ESP32 smart home with sensors, relays and Blynk IoT control. *(ESP32, C++)*
 - **[Smart Key Finder](https://github.com/princewill-web/Smart-key-finder)**: ESP-01 Wi-Fi gadget that triggers a buzzer from a web page. *(ESP8266, C++)*
 
-## 🛠 Skills
-**Languages:** C++ · Python · JavaScript · HTML/CSS
-**Hardware & IoT:** ESP32 · ESP8266 · Arduino · Sensors · Relays · FSM design · Blynk · MQTT
-**Tools:** Arduino IDE · VS Code · Git/GitHub
+  ## 🛠 Skills
+  - **Languages:** C++ · Python · JavaScript · HTML/CSS
+  - **Hardware & IoT:** ESP32 · ESP8266 · Arduino · Sensors · Relays · FSM design · Blynk · MQTT
+  - **Tools:** Arduino IDE · VS Code · Git/GitHub
 
 ## 📫 Contact
 princewilloguguom@gmail.com · [LinkedIn](https://www.linkedin.com/in/princewilloguguom)
